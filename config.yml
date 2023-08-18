@@ -1,0 +1,17 @@
+baseURL: "http://bebebren.com/"
+languageCode: "en-us"
+title: "bebebren design"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: bebebren design
+
+  socialIcons:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/brenda-zhao-4a0a52191"
+
+  hideSummary: true
+  mainSection: posts
+
+
