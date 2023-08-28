@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://bebebren.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test post pls ignore</title>
+      <title>group 1</title>
       <link>http://bebebren.com/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bebebren.com/posts/test/</guid>
-      <description>this is a test summary</description>
+      <description> </description>
     </item>
     
   </channel>

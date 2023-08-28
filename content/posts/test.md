@@ -1,12 +1,17 @@
 ---
-title: "test post pls ignore"
+title: "group 1"
 draft: false
-summary: "this is a test summary"
 ---
 
-### Hello World!
-
-![image-name3](/images/test1.jpg)
-![image-name3](/images/test2.jpg)
-![image-name3](/images/test3.jpg)
-![image-name3](/images/my_new_image.jpg)
+![image-name3](/images/1.jpg)
+![image-name3](/images/2.jpg)
+![image-name3](/images/3.jpg)
+![image-name3](/images/3a.jpg)
+![image-name3](/images/4.jpg)
+![image-name3](/images/5.jpg)
+![image-name3](/images/6.jpg)
+![image-name3](/images/7.jpg)
+![image-name3](/images/8.jpg)
+![image-name3](/images/9.jpg)
+![image-name3](/images/10.jpg)
+![image-name3](/images/11.jpg)
